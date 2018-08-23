@@ -1,0 +1,49 @@
+body {
+    background: #0078C9;
+}
+#title{
+    margin-left: 100px;
+}
+header {
+    margin: 30px 0;
+}
+.content {
+    padding:20px;
+}
+.main-content{
+    background-color:white;
+    padding-left: 150px;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    margin-bottom: 30%;
+}
+.budget p{
+    margin-bottom: 0;
+    font-weight: bold;
+    color: black;
+}
+.budget p span {
+    font-weight: normal;
+    color:black;
+}
+#expenses {
+    margin-bottom: 30px;
+    
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: white;
+    padding-left: 120px;
+    margin-top: 100px;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    color:red;
+    font-size: 22px;
+    margin-bottom:30px;
+    font-weight: bold;
+}
